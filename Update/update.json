@@ -5,7 +5,7 @@
     "description": "تم إضافة مميزات وتحسينات جديدة وإصلاح بعض الأخطاء.",
     "downloader_code": "123456",
     "url": "https://github.com/filmkabyle/Download-Kastor-TV-/raw/refs/heads/main/Kastor%20Tv_17.0.apk",
-    "cancelable": true
+    "cancelable": false
   },
   "update_player": {
     "recent_version": 13,
