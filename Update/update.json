@@ -4,13 +4,15 @@
     "titre": "Kastor Tv V18.0 تحديث جديد متوفر للتطبيق",
     "description": "تم إضافة مميزات وتحسينات جديدة وإصلاح بعض الأخطاء.",
     "downloader_code": "123456",
-    "url": "https://github.com/filmkabyle/Download-Kastor-TV-/raw/refs/heads/main/Kastor%20Tv_17.0.apk"
+    "url": "https://github.com/filmkabyle/Download-Kastor-TV-/raw/refs/heads/main/Kastor%20Tv_17.0.apk",
+    "cancelable": true
   },
   "update_player": {
     "recent_version": 13,
     "titre": "تحديث مشغل الوسائط",
     "description": "يرجى تحديث مشغل Kastor Player لأداء أفضل واستقرار السيرفرات.",
     "downloader_code": "654321",
-    "url": "https://raw.githubusercontent.com/اسم_المستخدِم/اسم_المستودع/main/player-release.apk"
+    "url": "https://raw.githubusercontent.com/اسم_المستخدِم/اسم_المستودع/main/player-release.apk",
+    "cancelable": false
   }
 }
