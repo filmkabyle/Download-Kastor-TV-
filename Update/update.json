@@ -1,11 +1,11 @@
 {
   "update": {
-    "recent_version": 19,
+    "recent_version": 20,
     "titre": "Kastor Tv V19.0 تحديث جديد متوفر للتطبيق",
     "description": "تم إضافة مميزات وتحسينات جديدة وإصلاح بعض الأخطاء.",
     "downloader_code": "2575640",
     "url": "https://github.com/filmkabyle/Download-Kastor-TV-/raw/refs/heads/main/Kastor%20Tv_19.0.apk",
-    "cancelable": false
+    "cancelable": true
   },
   "update_player": {
     "recent_version": 20,
