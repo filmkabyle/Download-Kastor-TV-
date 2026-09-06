@@ -8,11 +8,11 @@
     "cancelable": false
   },
   "update_player": {
-    "recent_version": 13,
-    "titre": "تحديث مشغل الوسائط",
-    "description": "يرجى تحديث مشغل Kastor Player لأداء أفضل واستقرار السيرفرات.",
-    "downloader_code": "654321",
-    "url": "https://raw.githubusercontent.com/اسم_المستخدِم/اسم_المستودع/main/player-release.apk",
-    "cancelable": false
+    "recent_version": 20,
+    "titre": "New update Kastor Player v 20.0  ",
+    "description": "Please update Kastor Player for better performance and server stability..",
+    "downloader_code": "1982758",
+    "url": "https://github.com/filmkabyle/Download-Kastor-TV-/raw/refs/heads/main/Kastor%20Player/Kastor%20Player_20.apk",
+    "cancelable": true
   }
 }
