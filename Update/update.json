@@ -5,7 +5,7 @@
     "description": "New features and improvements have been added, and some bugs have been fixed",
     "downloader_code": "8255765",
     "url": "https://cdn.jsdelivr.net/gh/filmkabyle/Download-Kastor-TV-@main/Kastor%20Tv_21.0.apk",
-    "cancelable": false
+    "cancelable": true
   },
   "update_player": {
     "recent_version": 27,
